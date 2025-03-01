@@ -28,10 +28,3 @@ A Java-compatible IDE (such as IntelliJ IDEA, Eclipse, or VS Code) or a command-
  ## Run the program
 java -cp bin calculator.Program
 
- ## Example Usage
- Enter the operator (+, -, *, /):
-+
-Enter the two numbers one by one:
-5
-3
-5.00 + 3.00 = 8.00
