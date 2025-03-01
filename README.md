@@ -35,12 +35,3 @@ Enter the two numbers one by one:
 5
 3
 5.00 + 3.00 = 8.00
-
-## Project Structure
-SimpleCalculator/
-│── src/
-│   ├── calculator/
-│   │   ├── Main.java
-│   │   ├── Program.java
-│── bin/ (compiled files)
-│── README.md
